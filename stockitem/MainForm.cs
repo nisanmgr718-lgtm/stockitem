@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Linq;
-using System.Reflection.Emit;
 using System.Windows.Forms;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace StockWise
 {
